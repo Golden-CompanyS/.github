@@ -23,7 +23,7 @@ A apresentação foi realizada no dia 09 de dezembro de 2022, de maneira gravada
 
 ## Quem são os integrantes que compõe essa organização?
 
-| [<img src="https://avatars.githubusercontent.com/u/80417466?v=4" width=115><br><sub>Leticia Resina</sub>](https://github.com/letyresina) | [<img src="https://avatars.githubusercontent.com/u/82532010?v=4" width=115><br><sub>Gustavo Pereira</sub>](https://github.com/PereiraGus) | [<img src="https://avatars.githubusercontent.com/u/82535458?v=4" width=115><br><sub>Larissa Sonoda</sub>](https://github.com/LarissaSonoda) | [<img src="https://avatars.githubusercontent.com/u/85740476?v=4" width=115><br><sub>Maria Eduarda</sub>](https://github.com/DudeBatista) | [<img src="https://avatars.githubusercontent.com/u/62896500?v=4" width=115><br><sub>Mateus Taveira</sub>](https://github.com/TaveiraTavel) | [<img src="https://avatars.githubusercontent.com/u/85853884?v=4" width=115><br><sub>Wesley Spiandorim</sub>](https://github.com/Wesley123HD) |
+| [<img src="https://avatars.githubusercontent.com/u/80417466?v=4" width=115><br><sub>Leticia Resina</sub>](https://github.com/letyresina) | [<img src="https://avatars.githubusercontent.com/u/82532010?v=4" width=115><br><sub>Gustavo Pereira</sub>](https://github.com/PereiraGus) | [<img src="https://avatars.githubusercontent.com/u/82535458?v=4" width=115><br><sub>Larissa Sonoda</sub>](https://github.com/LarissaSonoda) |
 | :---: | :---: | :---: 
 
 ## Como faço caso desejo visualizar o projeto em meu computador?
