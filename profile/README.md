@@ -15,6 +15,8 @@ Como citado no tópico anterior, o trabalho foi apresentado na Etec Professor Ba
 
 A apresentação foi realizada no dia 09 de dezembro de 2022, de maneira gravada. O vídeo fora enviado para os professores. 
 
+Caso seja de seu interesse, o link para visualizar a apresentação no YouTube está aqui: 
+
 ## Situação do trabalho atualmente 
 
 <p align = "center">
